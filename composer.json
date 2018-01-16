@@ -1,0 +1,19 @@
+{
+  "name": "alexnovikov/brackets",
+  "description": "Check does all brackets are closed in the string",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Alexey Novikov",
+      "email": "Novikov_9292@mail.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AlexNovikov\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
